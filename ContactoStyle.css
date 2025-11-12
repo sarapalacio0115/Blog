@@ -1,0 +1,86 @@
+.Body-Contacto{
+ font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.Header-contacto{
+  background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+nav a {
+ color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+  color: underline;
+}
+
+.Main-Contacto {
+  background-color: white;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.titulo {
+  color: white;
+  text-align: center;
+}
+
+.Texto-Contacto {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.info-contacto {
+  margin-top: 20px;
+}
+
+.info-contacto li {
+  margin-bottom: 10px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.Button-Contacto {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Button-Contacto:hover {
+  background-color: #555;
+}
+
+.Footer-Contacto {
+  background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;}
