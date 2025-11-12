@@ -1,0 +1,115 @@
+sbody {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h2 {
+     text-align: center;
+}
+
+header {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+
+main {
+    padding: 40px 10%;
+}
+
+.intro, .mision-vision, .equipo {
+    margin-bottom: 50px;
+}
+
+
+.mision-vision {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mision, .vision {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+    width: 45%;
+    margin: 10px 0;
+}
+
+.mision h3, .vision h3 {
+    color: purple;
+}
+
+
+.equipo h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.equipo {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.miembros {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap;         
+    gap: 20px;               
+}
+
+.miembro {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    width: 150px;            
+    text-align: center;
+}
+
+.miembro img {
+    width: 100px;            
+    height: 100px;
+    object-fit: cover;       
+    border-radius: 50%;     
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.miembro h4 {
+    margin: 8px 0 4px;
+    font-size: 16px;
+}
+
+.miembro p {
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
