@@ -1,1 +1,124 @@
-// Comentario
+const data = [
+    //Sofas y sillas
+    {
+        Id: "",
+        URL: "https://images.pexels.com/photos/923192/pexels-photo-923192.jpeg",
+        Name: ""
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/276534/pexels-photo-276534.jpeg",
+        Name: ""
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/827518/pexels-photo-827518.jpeg",
+        Name: "  "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/2079293/pexels-photo-2079293.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/5490303/pexels-photo-5490303.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/2495555/pexels-photo-2495555.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/4846086/pexels-photo-4846086.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/12538666/pexels-photo-12538666.jpeg",
+        Name: "   "
+    }, 
+    //espejos
+    {
+        Id: "",
+        URL: "https://images.pexels.com/photos/3097112/pexels-photo-3097112.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/1528975/pexels-photo-1528975.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/33361345/pexels-photo-33361345.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/6044960/pexels-photo-6044960.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/6842189/pexels-photo-6842189.jpeg",
+        Name: "   "
+    }, 
+    //Comedores
+    {
+        Id: "",
+        URL: "https://images.pexels.com/photos/909504/pexels-photo-909504.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/3356416/pexels-photo-3356416.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/2995012/pexels-photo-2995012.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/11403827/pexels-photo-11403827.jpeg",
+        Name: "   "
+    }, 
+    //mesa de noche
+    {
+        Id: "",
+        URL: "https://images.pexels.com/photos/2082092/pexels-photo-2082092.jpeg",
+        Name: "   "
+    }, {
+        Id: "",
+        URL: "https://images.pexels.com/photos/6926839/pexels-photo-6926839.jpeg",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/19415826/pexels-photo-19415826.jpeg",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/18280834/pexels-photo-18280834.jpeg",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/25781690/pexels-photo-25781690.jpeg",
+        Name: "   "
+    },
+    //camas
+    {
+        Id: "",
+        URL: "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg",
+        Name: "   "
+    },{
+        Id: "https://images.pexels.com/photos/260553/pexels-photo-260553.jpeg",
+        URL: "   ",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/879010/pexels-photo-879010.jpeg",
+        Name: "   "
+    },{
+        Id: "",
+        URL: "https://images.pexels.com/photos/2374967/pexels-photo-2374967.jpeg",
+        Name: "   "
+    },
+]
